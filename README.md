@@ -7,7 +7,6 @@
 
 > [Listener](#Listener)
 
-> [Eigene API](#API)
 ___
 
 
@@ -79,10 +78,3 @@ ___
     - Tablist wird initialisiert
     
 <br>
-
-## API
-- Datenbanken verknüpfung
-- Configs
-- Punishments
-- Tablist Handler
-- [Guide](https://github.com/MixelBlocks/MixelApi)
