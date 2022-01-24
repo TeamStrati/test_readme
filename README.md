@@ -62,6 +62,19 @@ ___
 - Anzahl der Online Spieler
 - Ip des Servers
 - Geld des Spielers
+- #### Placeholders:
+    - `%username%`
+    - `%prefix%`
+    - `%suffix%`
+    - `%ping%`
+    - `%server%`
+    - `%playercount%`
+    - `%localplayercount%`
+    - `%totalmaxplayer%` 
+    - `%motd%`
+    - `%uuid%`
+    - `%ip%`
+    - `%balance%`
 
 <br>
 
