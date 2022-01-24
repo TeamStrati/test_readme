@@ -64,23 +64,23 @@ ___
 - Geld des Spielers
 - #### Placeholders:
     - ##### Für Spieler:
-            - `%username%`: Spielername
-           - `%prefix%`: Prefix des Spielers
-            - `%suffix%`: Suffix des Spielers
-           - `%server%`: Aktueller Server
+    - `%username%`: Spielername
+    - `%prefix%`: Prefix des Spieler
+    - `%suffix%`: Suffix des Spielers
+    - `%server%`: Aktueller Server
     - ##### Für Alles andere:
-           - `%username%`: Name
-            - `%prefix%`: Prefix
-            - `%suffix%`: Suffix
-            - `%ping%`: Ping
-            - `%server%`: Aktueller Server
-            - `%playercount%`: Playercount des gesamten Netzwerks
-            - `%localplayercount%`: Playercount auf dem Server
-            - `%totalmaxplayer%`: Maximale Spieleranzahl
-            - `%motd%`: MOTD des Servers
-            - `%uuid%`: UUID des Spielers
-             - `%ip%`: IP des Servers
-            - `%balance%`: Kontostand des Spielers
+    - `%username%`: Name
+    - `%prefix%`: Prefix
+    - `%suffix%`: Suffix
+    - `%ping%`: Ping
+    - `%server%`: Aktueller Server
+    - `%playercount%`: Playercount des gesamten Netzwerks
+    - `%localplayercount%`: Playercount auf dem Server
+    - `%totalmaxplayer%`: Maximale Spieleranzahl
+    - `%motd%`: MOTD des Servers
+    - `%uuid%`: UUID des Spielers
+    - `%ip%`: IP des Servers
+    - `%balance%`: Kontostand des Spielers
 
 <br>
 
