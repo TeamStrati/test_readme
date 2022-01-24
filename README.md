@@ -5,7 +5,7 @@
 >
 > [Permissions](#Permissions)
 >
-> [Tablist](##Tablist)
+> [Tablist](#Tablist)
 
 ___
 
