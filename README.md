@@ -69,7 +69,7 @@ ___
     - `%ping%`: Ping des Spielers
     - `%server%`: Aktueller Server
     - `%playercount%`: Playercount des gesamten Netzwerks
-    - `%localplayercount%`Playercount auf dem Server, auf dem sich der Spieler gerade befindet
+    - `%localplayercount%`: Playercount auf dem Server, auf dem sich der Spieler gerade befindet
     - `%totalmaxplayer%`: Maximale Spieleranzahl
     - `%motd%`: MOTD des Servers
     - `%uuid%`: UUID des Spielers
