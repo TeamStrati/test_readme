@@ -64,10 +64,10 @@ ___
 - Geld des Spielers
 - #### Placeholders:
     - ##### Für Spieler:
-    - `%username%`: Spielername
-    - `%prefix%`: Prefix des Spieler
-    - `%suffix%`: Suffix des Spielers
-    - `%server%`: Aktueller Server
+        - `%username%`: Spielername
+        - `%prefix%`: Prefix des Spieler
+        - `%suffix%`: Suffix des Spielers
+        - `%server%`: Aktueller Server
     - ##### Für Alles andere:
     - `%username%`: Name
     - `%prefix%`: Prefix
